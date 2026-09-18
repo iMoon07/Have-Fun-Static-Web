@@ -1,5 +1,8 @@
 # Have Fun Static Web
 
+My first project about static web. 
+Vibe coding with AI.
+
 <div align="center">
   <img src="screenshot/01.png" width="30%">
   <img src="screenshot/02.png" width="30%">
@@ -15,6 +18,3 @@
   <br>
   <img src="screenshot/10.png" width="30%">
 </div>
-
-My first project about static web. 
-Vibe coding with AI.
