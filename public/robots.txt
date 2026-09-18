@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://penjelajah-cybersecurity.my.id/sitemap.xml
